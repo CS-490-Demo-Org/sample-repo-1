@@ -1,1 +1,4 @@
 # Sample Project 1
+
+- Hello World
+  \_ CS 490
